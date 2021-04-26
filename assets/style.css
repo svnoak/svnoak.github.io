@@ -16,13 +16,13 @@ body {
 
 #card {
     height: 40vh;
-    width: 40vw;
+    width: 30vw;
     background: rgba(255, 255, 255, 0.19);
     border-radius: 10px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 5vh 10vw;
+    padding: 5vh 5vw;
 }
 
 #header {
