@@ -1,0 +1,16 @@
+body {
+    height: 98vh;
+    width: 99vw;
+    /* background: radial-gradient(50% 50% at 50% 50%, #00CA14 0%, rgba(0, 37, 4, 0.85) 0.01%, rgba(0, 23, 2, 0.9) 100%); */
+    background: radial-gradient(50% 50% at 50% 50%, #004B1E 0%, #14271C 100%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#card {
+    height: 25vh;
+    width: 25vw;
+    background: rgba(255, 255, 255, 0.19);
+    border-radius: 10px;
+}
