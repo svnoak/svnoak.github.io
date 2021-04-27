@@ -3,8 +3,8 @@
 }
 
 body {
-    height: 98vh;
-    width: 99vw;
+    height: 100vh;
+    width: 100vw;
     /* background: radial-gradient(50% 50% at 50% 50%, #00CA14 0%, rgba(0, 37, 4, 0.85) 0.01%, rgba(0, 23, 2, 0.9) 100%); */
     background: radial-gradient(50% 50% at 50% 50%, #004B1E 0%, #14271C 100%);
     display: flex;
@@ -12,6 +12,8 @@ body {
     align-items: center;
     color: white;
     font-family: sans-serif;
+    font-size: 1.8vh;
+    overflow: none;
 }
 
 #card {
@@ -22,7 +24,7 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    padding: 5vh 5vw;
+    padding: 5vh 3vw;
 }
 
 #header {
@@ -60,7 +62,7 @@ body {
 }
 
 span,
-#info a {
+#info a{
     margin: 1vh 0;
 }
 
