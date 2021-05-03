@@ -22,6 +22,11 @@ nav a{
     color: white;
     text-decoration: none;
     font-size: 2vh;
+    transition: ease-in-out .2s;
+}
+
+nav a:hover {
+    color: rgba(255,255,255,0.8);
 }
 
 nav div {
