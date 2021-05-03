@@ -174,3 +174,7 @@ main {
     background-color: #8C56FA;
     border-radius: 5px;
 }
+
+a {
+    color: white;
+}
