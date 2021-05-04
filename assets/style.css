@@ -65,6 +65,10 @@ main {
     align-items: center;
 }
 
+.short {
+    height: 90vh;
+}
+
 .value-prop > h1 {
     font-size: 5vh;
 }
@@ -141,7 +145,7 @@ main {
 
 .download-section {
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
     align-items: center;
     width: 50vw;
     margin: 2vh 0;
@@ -150,6 +154,8 @@ main {
 .image-box {
     display: flex;
     align-items: center;
+    width: 20vw;
+    margin-right: 5vw;
 }
 
 .image-box > img{
@@ -177,4 +183,23 @@ main {
 
 a {
     color: white;
+}
+
+.secondary {
+    color: white;
+    height: 40px;
+    font-size: 3vh;
+    text-decoration: none;
+    text-align: center;
+}
+
+.arrow {
+    height: 3vh;
+    color: white;
+    fill: white;
+}
+
+.continue {
+    display: flex;
+    flex-direction: column;
 }
