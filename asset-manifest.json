@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.c32e432b.chunk.css",
+    "main.js": "/static/js/main.385c863c.chunk.js",
+    "main.js.map": "/static/js/main.385c863c.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.6823e98f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.6823e98f.js.map",
+    "static/js/2.335567c5.chunk.js": "/static/js/2.335567c5.chunk.js",
+    "static/js/2.335567c5.chunk.js.map": "/static/js/2.335567c5.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.c32e432b.chunk.css.map": "/static/css/main.c32e432b.chunk.css.map",
+    "static/js/2.335567c5.chunk.js.LICENSE.txt": "/static/js/2.335567c5.chunk.js.LICENSE.txt",
+    "static/media/Arrow-down.svg": "/static/media/Arrow-down.a8a9b7be.svg",
+    "static/media/PrivacyBadger attribution.txt": "/static/media/PrivacyBadger attribution.2d605f99.txt",
+    "static/media/confetti.png": "/static/media/confetti.53e1c51a.png",
+    "static/media/duckduckgo.svg": "/static/media/duckduckgo.e5df59be.svg",
+    "static/media/firefox.svg": "/static/media/firefox.94f048fa.svg",
+    "static/media/pic.jpg": "/static/media/pic.5ddcdd24.jpg",
+    "static/media/privacybadger.svg": "/static/media/privacybadger.58d652e2.svg",
+    "static/media/ublockorigin.svg": "/static/media/ublockorigin.b1aab970.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6823e98f.js",
+    "static/js/2.335567c5.chunk.js",
+    "static/css/main.c32e432b.chunk.css",
+    "static/js/main.385c863c.chunk.js"
+  ]
+}
