@@ -1,1 +1,0 @@
-By Electronic Frontier Foundationhttps://github.com/EFForg/privacybadgerfirefox/commit/05768408a6d54e6d118c55e09c4ad5d9bef2c988 - Vectorised from https://www.eff.org/sites/all/themes/badger/badger-stroke.png with Inkscape, CC BY 3.0 us, https://commons.wikimedia.org/w/index.php?curid=74026100
